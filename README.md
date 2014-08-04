@@ -1,4 +1,7 @@
-mastering_git
+Mastering Git
 =============
 
-The practice exercises and examples in the book 'Mastering Git' published by Packt Publishing
+ISBN: 978-1-78355-413-3 from [Packt Publishing](http://www.packtpub.com/)
+
+
+&copy; 2014 -- all rights reserved
